@@ -19,3 +19,8 @@ In my current internship, I'm encouraged to only work 8 hours per day. I often g
 
 ## Misc
 - Visit [LCDWiki](http://www.lcdwiki.com/Main_Page) to download additional libraries for your specific screen
+
+
+![Image of screen](start.jpeg?raw=true "Unstarted timer") 
+
+![](https://github.com/zbeucler2018/Work-Timer/blob/main/running.gif, "Running timer")
